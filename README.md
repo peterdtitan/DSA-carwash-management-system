@@ -5,6 +5,9 @@ It allows users to add cars to the queue, remove, check finances (of each car wa
 and exit the app with the data saved.
 
 
+![](assets/homescreen.png)
+| _`main.py` running on Mac OS in dark mode
+
 ## Requirement to run main.py
 Install the module with pip:
 ```
